@@ -1,5 +1,5 @@
 # Image Processor Tool
-
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
 
 A versatile desktop application for image processing with an intuitive user interface. This tool allows users to manipulate images with professional-grade features while maintaining simplicity and ease of use.
 
