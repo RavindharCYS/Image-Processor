@@ -8,7 +8,6 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 =======
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
->>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 A versatile desktop application for image processing with an intuitive user interface. This tool allows users to manipulate images with professional-grade features while maintaining simplicity and ease of use.
 
@@ -162,7 +161,6 @@ image_processor/
 ### Advanced Features
 
 #### Batch Processing
-<<<<<<< HEAD
 ![Batch Processing](https://img.shields.io/badge/Feature-Batch%20Processing-blue)
 =======
 
@@ -174,7 +172,6 @@ image_processor/
 5. Set output folder and format preferences
 
 #### Filter Gallery
-<<<<<<< HEAD
 ![Filter Gallery](https://img.shields.io/badge/Feature-Filter%20Gallery-blue)
 =======
 
