@@ -222,6 +222,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * **OpenCV community** for computer vision algorithms
 * All contributors who have helped improve this tool
 
+## Contact
+
+For questions, suggestions, or support, feel free to reach out:
+
+- **GitHub**: [RavindharCYS](https://github.com/RavindharCYS)
+- **Email**: ravindhar.upm@gmail.com
+
 ---
 
 <p align="center">
