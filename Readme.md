@@ -1,10 +1,14 @@
 # Image Processor Tool
+<<<<<<< HEAD
 
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-1.0.0-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
+=======
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
+>>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 A versatile desktop application for image processing with an intuitive user interface. This tool allows users to manipulate images with professional-grade features while maintaining simplicity and ease of use.
 
@@ -158,7 +162,11 @@ image_processor/
 ### Advanced Features
 
 #### Batch Processing
+<<<<<<< HEAD
 ![Batch Processing](https://img.shields.io/badge/Feature-Batch%20Processing-blue)
+=======
+
+>>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 1. Select the "Batch Processing" option from the Tools menu
 2. Add images to the queue by clicking "Add Images"
@@ -167,7 +175,11 @@ image_processor/
 5. Set output folder and format preferences
 
 #### Filter Gallery
+<<<<<<< HEAD
 ![Filter Gallery](https://img.shields.io/badge/Feature-Filter%20Gallery-blue)
+=======
+
+>>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 1. Open the Filter Gallery from the Filters menu
 2. Browse filter categories on the left panel
