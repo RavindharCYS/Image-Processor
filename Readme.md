@@ -1,8 +1,36 @@
 # Image Processor Tool
 
-![Image Processor Tool Interface](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/interface_preview.png)
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
 
 A versatile desktop application for image processing with an intuitive user interface. This tool allows users to manipulate images with professional-grade features while maintaining simplicity and ease of use.
+
+## Table of Contents
+- [Features](#features)
+  - [Background Management](#background-management)
+  - [Image Enhancement](#image-enhancement)
+  - [Image Manipulation](#image-manipulation)
+  - [Additional Features](#additional-features)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Dependencies](#dependencies)
+- [Project Structure](#project-structure)
+- [Usage](#usage)
+  - [Basic Workflow](#basic-workflow)
+  - [Advanced Features](#advanced-features)
+    - [Batch Processing](#batch-processing)
+    - [Filter Gallery](#filter-gallery)
+  - [Tips](#tips)
+- [Performance Considerations](#performance-considerations)
+- [Contributing](#contributing)
+  - [Development Guidelines](#development-guidelines)
+- [Future Roadmap](#future-roadmap)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ## Features
 
@@ -63,7 +91,7 @@ A versatile desktop application for image processing with an intuitive user inte
 ## Installation
 
 ### Prerequisites
-* Python 3.7 or higher
+* Python 3.8 or higher
 * Pip package manager
 
 ### Setup
@@ -130,7 +158,7 @@ image_processor/
 ### Advanced Features
 
 #### Batch Processing
-![Batch Processing](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/batch_processing.png)
+![Batch Processing](https://img.shields.io/badge/Feature-Batch%20Processing-blue)
 
 1. Select the "Batch Processing" option from the Tools menu
 2. Add images to the queue by clicking "Add Images"
@@ -139,7 +167,7 @@ image_processor/
 5. Set output folder and format preferences
 
 #### Filter Gallery
-![Filter Gallery](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/filter_gallery.png)
+![Filter Gallery](https://img.shields.io/badge/Feature-Filter%20Gallery-blue)
 
 1. Open the Filter Gallery from the Filters menu
 2. Browse filter categories on the left panel
