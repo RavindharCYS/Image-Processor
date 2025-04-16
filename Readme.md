@@ -166,7 +166,6 @@ image_processor/
 ![Batch Processing](https://img.shields.io/badge/Feature-Batch%20Processing-blue)
 =======
 
->>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 1. Select the "Batch Processing" option from the Tools menu
 2. Add images to the queue by clicking "Add Images"
@@ -179,7 +178,6 @@ image_processor/
 ![Filter Gallery](https://img.shields.io/badge/Feature-Filter%20Gallery-blue)
 =======
 
->>>>>>> d96a751d232aa7e247dff179c14addc23aa7484b
 
 1. Open the Filter Gallery from the Filters menu
 2. Browse filter categories on the left panel
