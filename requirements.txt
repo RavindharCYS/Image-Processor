@@ -1,0 +1,15 @@
+# Core image processing libraries
+Pillow>=9.0.0
+rembg>=2.0.0
+numpy>=1.20.0
+
+# Additional utilities for image manipulation
+scikit-image>=0.19.0
+opencv-python>=4.5.5
+
+# UI enhancements (optional but recommended)
+ttkthemes>=3.2.0
+pillow-tk>=0.1.0
+
+# File handling and utilities
+python-dotenv>=0.20.0
