@@ -139,11 +139,9 @@ image_processor/
 │   ├── correction.py
 │   └── effects.py
 ├── utils/               # Utility functions
-│   ├── file_handler.py
-│   └── image_converter.py
-└── resources/           # Application resources
-    ├── icons/
-    └── presets/
+    ├── file_handler.py
+    └── image_converter.py
+
 ```
 
 ## Usage
