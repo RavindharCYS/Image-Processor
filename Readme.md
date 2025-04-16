@@ -98,7 +98,7 @@ A versatile desktop application for image processing with an intuitive user inte
 ### Setup
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/image-processor.git
+git clone https://github.com/RavindharCYS/Image-Processor.git
 cd image-processor
 ```
 
