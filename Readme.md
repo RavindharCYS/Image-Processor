@@ -1,6 +1,5 @@
 # Image Processor Tool
 
-![Image Processor Tool Interface](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/interface_preview.png)
 
 A versatile desktop application for image processing with an intuitive user interface. This tool allows users to manipulate images with professional-grade features while maintaining simplicity and ease of use.
 
@@ -130,7 +129,7 @@ image_processor/
 ### Advanced Features
 
 #### Batch Processing
-![Batch Processing](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/batch_processing.png)
+
 
 1. Select the "Batch Processing" option from the Tools menu
 2. Add images to the queue by clicking "Add Images"
@@ -139,7 +138,7 @@ image_processor/
 5. Set output folder and format preferences
 
 #### Filter Gallery
-![Filter Gallery](https://raw.githubusercontent.com/yourusername/image-processor/main/docs/images/filter_gallery.png)
+
 
 1. Open the Filter Gallery from the Filters menu
 2. Browse filter categories on the left panel
